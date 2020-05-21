@@ -1,0 +1,11 @@
+ understanding the problem
+   a: generate a empty list
+   b: add the defaults and words may match predefined ones
+   c: if matches = u win
+   d: if not match reduce count
+   e: display fig of man 
+
+
+using a function for generatin og the figure 
+
+using another function for genrtaion of main logic
